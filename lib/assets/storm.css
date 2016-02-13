@@ -16,8 +16,8 @@ body {
   animation: animatedBackground 50s linear infinite
 }
 .splash {
-  font-family: 'Open Sans', sans-serif;
-  font-weight: 300;
+  /*font-family: 'Open Sans', sans-serif;
+  font-weight: 300;*/
   background: white;
   padding: 25
 }
