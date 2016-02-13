@@ -22,6 +22,6 @@ body {
   padding: 25
 }
 
-.form-item {
+button, .form-item {
   font-family: 'Open Sans', sans-serif;
 }
