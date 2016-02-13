@@ -1,4 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700);
 @keyframes animatedBackground {
   from {
     background-position: 0 100%
@@ -17,6 +16,8 @@ body {
   animation: animatedBackground 50s linear infinite
 }
 .splash {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
   background: white;
   padding: 25
 }
