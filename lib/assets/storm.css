@@ -19,8 +19,12 @@ body {
   background: white;
   padding: 25
 }
-p, button, .form-item {
+p, .form-item {
   font-family: 'Open Sans', sans-serif;
+}
+button{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
 }
 footer {
   margin: 50px auto 0
